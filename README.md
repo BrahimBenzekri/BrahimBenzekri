@@ -19,7 +19,7 @@ Who Am I ? 🔥 <br />
 ## ⚡ Tech Stack and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,dart,flutter,firebase,gradle,django,mysql,sqlite,git,github,vscode,bash,docker,c,py,selenium" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,dart,flutter,firebase,gradle,django,mysql,git,github,vscode,bash,docker,c,py,selenium&perline=4" />
   </a>
 </p>
 
