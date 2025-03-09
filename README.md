@@ -24,9 +24,15 @@ Who Am I ? 🔥 <br />
 </p>
 
 ## 💬 Let's Connect  
-<p align="left">
-<a href="https://linkedin.com/in/brahim-benzekri-609486232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-benzekri-609,486232" height="30" width="40" /></a>
-<a href="https://instagram.com/bahitt0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahitt0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/benzbra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="benzbra04" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://discordapp.com/users/your-id"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+  <a href="https://github.com/your-github-username"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="https://instagram.com/your-handle"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+  <a href="https://youtube.com/@your-channel"><img src="https://skillicons.dev/icons?i=youtube" height="40"></a>
+  <a href="https://t.me/your-handle"><img src="https://skillicons.dev/icons?i=telegram" height="40"></a>
 </p>
+
 
