@@ -11,9 +11,9 @@ Who Am I ? 🔥 <br />
 <br /><br /><br />
 
 ## 🏆 About Me  
-- 🔥 Passionate about **mobile development** & **cybersecurity** <br />
-- 🎯 Currently learning **Flutter, GetX, and backend integration** <br />
-- 🐧 Linux enthusiast :) <br />
+• 🔥 Passionate about **mobile development** & **cybersecurity** <br />
+• 🎯 Currently learning **Flutter, GetX, and backend integration** <br />
+• 🐧 Linux enthusiast :) <br />
 <br />
 
 ## ⚡ Tech Stack 
