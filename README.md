@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="https://i.gifer.com/Atll.gif" width="240" height="271" />
+<img src="https://i.gifer.com/Atll.gif" width="240" height="271" align="right"/>
+
 ### Sup mate, it's bahitto ✨
 Welcome to my profile 👋
  <br />
