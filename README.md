@@ -8,13 +8,13 @@ Who Am I ? 🔥 <br />
 • 🍵 I Can't work without my cup of Atay (Just Like this guy 🙄 ->). <br />
 • 🐧 I use **Arch  BTW** <br />
 • 🧑‍🎓 Student of Computer science at [ESTIN](https://estin.dz/) <br />
- ---
+
 ## 🏆 About Me  
 - 🔥 Passionate about **mobile development** & **cybersecurity** <br />
 - 🎯 Currently learning **Flutter, GetX, and backend integration** <br />
 - 🐧 Linux enthusiast :) <br />
 <br />
----
+
 ## ⚡ Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
