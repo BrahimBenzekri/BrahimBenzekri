@@ -1,23 +1,5 @@
 ## Sup mate, it's bahitto ✨
-<style>
-  .responsive-gif {
-    max-width: 40%;
-    height: auto;
-    float: right;
-  }
-
-  @media (max-width: 768px) {
-    .responsive-gif {
-      max-width: 80%;
-      float: none;
-      display: block;
-      margin: 0 auto;
-    }
-  }
-</style>
-
-<img src="https://i.gifer.com/Atll.gif" class="responsive-gif" alt="Cool GIF"/>
-
+<img src="https://i.gifer.com/Atll.gif" width="40%" style="float: right;" alt="GIF"/>
 
 Welcome to my profile 👋
  <br />
@@ -26,7 +8,7 @@ Who Am I ? 🔥 <br />
 • 🍵 I Can't work without my cup of Atay (Just Like this guy 🙄 ->). <br />
 • 🐧 I use **Arch  BTW** <br />
 • 🧑‍🎓 Student of Computer science at [ESTIN](https://estin.dz/) <br />
-<br /><br /><br />
+<br /><br /><br /><br />
 
 ## 🏆 About Me  
 • 🔥 Passionate about **mobile development** & **cybersecurity** <br />
