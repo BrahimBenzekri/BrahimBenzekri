@@ -1,5 +1,5 @@
 ## Sup mate, it's bahitto ✨
-<img src="https://i.gifer.com/Atll.gif" width="40%" style="float: right;" alt="GIF"/>
+<img src="https://i.gifer.com/Atll.gif" width="25%" align="right;" alt="GIF"/>
 
 Welcome to my profile 👋
  <br />
