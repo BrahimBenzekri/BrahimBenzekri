@@ -1,5 +1,23 @@
 ## Sup mate, it's bahitto ✨
-<img src="https://i.gifer.com/Atll.gif" width="240" height="271" align="right"/>
+<style>
+  .responsive-gif {
+    max-width: 40%;
+    height: auto;
+    float: right;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-gif {
+      max-width: 80%;
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+</style>
+
+<img src="https://i.gifer.com/Atll.gif" class="responsive-gif" alt="Cool GIF"/>
+
 
 Welcome to my profile 👋
  <br />
